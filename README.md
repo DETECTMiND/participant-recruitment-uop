@@ -1,6 +1,6 @@
-# DETECTMiND Study · Participant Recruitment
+# DIGITALMiND Study · Participant Recruitment
 
-Recruitment website for the **DETECTMiND study**, a joint research project by the
+Recruitment website for the **DIGITALMiND study**, a joint research project by the
 University of Southampton and the University of Portsmouth.
 
 > **Study:** “A Multi-Task, Multi-Objective Decision Analytics Framework for Predicting At-Risk Mental States of Anxiety and Depression”
