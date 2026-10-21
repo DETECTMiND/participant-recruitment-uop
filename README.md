@@ -1,0 +1,33 @@
+# DETECTMiND Study · Participant Recruitment
+
+Recruitment website for the **DETECTMiND study**, a joint research project by the
+University of Southampton and the University of Portsmouth.
+
+> **Study:** “A Multi-Task, Multi-Objective Decision Analytics Framework for Predicting At-Risk Mental States of Anxiety and Depression”
+> **Researchers:** Dr. Manjary P. Gangan, Dr. Anoop Kadan, Dr. Banu Lokman · **Ethics Number:** BAL/2026/41/GANGAN
+
+Live at **https://detectmind.github.io/participant-recruitment-uop/** (once GitHub Pages is enabled, see below).
+
+## Structure
+
+```
+docs/
+├── index.html      # the whole site (plain HTML + CSS, no build step)
+├── .nojekyll
+└── assets/         # study banner, university logos, app icon, fonts (SIL OFL)
+```
+
+## Updating
+
+- **Text, links, contacts:** edit `docs/index.html`. The PIS and Consent Form links point to Google Drive/Docs;
+  search for `docs.google.com` / `drive.google.com` to change them.
+- **Images:** replace files in `docs/assets/` with the same names.
+  The university logos were cut from the study banner; swap in the official logo files when available.
+
+Commit and push to `main`; GitHub Pages rebuilds within about a minute.
+
+## GitHub Pages settings
+
+Settings → Pages → **Build and deployment**
+- **Source:** Deploy from a branch
+- **Branch:** `main` · **Folder:** `/docs`
