@@ -4,7 +4,7 @@ Recruitment website for the **DIGITALMiND study**, a joint research project by t
 University of Southampton and the University of Portsmouth.
 
 > **Study:** “A Multi-Task, Multi-Objective Decision Analytics Framework for Predicting At-Risk Mental States of Anxiety and Depression”
-> **Researchers:** Dr. Manjary P. Gangan, Dr. Anoop Kadan, Dr. Banu Lokman · **Ethics Number:** BAL/2026/41/GANGAN
+> **Researchers:** Dr. Manjary P. Gangan, Prof. Banu Lokman, Dr. Anoop Kadan · **Ethics Number:** BAL/2026/41/GANGAN
 
 Live at **https://detectmind.github.io/participant-recruitment-uop/** (once GitHub Pages is enabled, see below).
 
